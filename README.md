@@ -46,7 +46,7 @@ Users should be able to:
 - CSS Grid
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mastertbal](https://www.frontendmentor.io/profile/mastertbal)
 - [LinkedIn](https://www.linkedin.com/in/oluwatobi-balogun-536044160)
 - [Twitter](https://www.twitter.com/mastertbal)
 - [Instagram](https://www.instagram.com/mastertbal)
